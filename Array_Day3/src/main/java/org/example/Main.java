@@ -16,5 +16,10 @@ public class Main {
         largestElement obj3=new largestElement();
         obj3.largest();
         System.out.println("------------------------------");
+        
+        //prog 4) Java Program to print the smallest element in an array
+        SmallestElement obj4=new SmallestElement();
+        obj4.smallest();
+        System.out.println("------------------------------");
     }
 }
