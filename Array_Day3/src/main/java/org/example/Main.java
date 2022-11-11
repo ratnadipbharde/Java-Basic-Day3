@@ -21,5 +21,10 @@ public class Main {
         SmallestElement obj4=new SmallestElement();
         obj4.smallest();
         System.out.println("------------------------------");
+
+        //prog 5) Java Program to print the elements of an array present on an even position
+        evenPositionArray obj5=new evenPositionArray();
+        obj5.evenPosition();
+        System.out.println("------------------------------");
     }
 }
