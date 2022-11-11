@@ -26,5 +26,10 @@ public class Main {
         evenPositionArray obj5=new evenPositionArray();
         obj5.evenPosition();
         System.out.println("------------------------------");
+        
+        //prog 6) Java Program to print the elements of an array in reverse order
+        reverseArray obj6=new reverseArray();
+        obj6.reverse();
+        System.out.println("------------------------------");
     }
 }
