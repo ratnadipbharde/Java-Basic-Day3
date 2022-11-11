@@ -41,5 +41,10 @@ public class Main {
         duplicateElementArray obj8=new duplicateElementArray();
         obj8.duplicate();
         System.out.println("------------------------------");
+        
+        //prog 9) Java Program to sort the elements of an array in ascending order
+        sortingArray obj9=new sortingArray();
+        obj9.sort();
+        System.out.println("------------------------------");
     }
 }
