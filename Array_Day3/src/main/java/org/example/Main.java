@@ -46,5 +46,9 @@ public class Main {
         sortingArray obj9=new sortingArray();
         obj9.sort();
         System.out.println("------------------------------");
+
+        //prog 10) Find 2nd Largest Number in an Array
+        FindSecondLargestElement obj10=new FindSecondLargestElement();
+        obj10.secongLargest();
     }
 }
