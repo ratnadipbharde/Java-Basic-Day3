@@ -31,5 +31,10 @@ public class Main {
         reverseArray obj6=new reverseArray();
         obj6.reverse();
         System.out.println("------------------------------");
+
+        //prog 7) Java Program to print the elements of an array present on odd position
+        oddPositionArray obj7=new oddPositionArray();
+        obj7.oddPosition();
+        System.out.println("------------------------------");
     }
 }
