@@ -36,5 +36,10 @@ public class Main {
         oddPositionArray obj7=new oddPositionArray();
         obj7.oddPosition();
         System.out.println("------------------------------");
+        
+        //prog 8) Java Program to print the duplicate elements of an array
+        duplicateElementArray obj8=new duplicateElementArray();
+        obj8.duplicate();
+        System.out.println("------------------------------");
     }
 }
